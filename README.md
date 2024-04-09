@@ -1,3 +1,4 @@
 # learning
 To learn the GitHub
-Author -Priya bichukale
+<br>
+Author -<H1>Priya bichukale</H1>
